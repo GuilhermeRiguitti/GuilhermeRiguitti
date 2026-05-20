@@ -1,13 +1,7 @@
-<h1 align="center">Hi there 👋 I'm YOUR_NAME</h1>
+<h1 align="center">Hi there 👋 I'm Guilherme Riguitti</h1>
 
 <p align="center">
   Software Engineer • Full Stack Developer • Tech Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
 </p>
 
 ---
