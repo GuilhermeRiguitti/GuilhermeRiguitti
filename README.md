@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRiguitti&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=GuilhermeRiguitti&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
