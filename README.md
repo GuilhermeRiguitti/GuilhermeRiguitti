@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 💻 Software Engineer passionate about building scalable applications
-- 🌱 Always learning new technologies and improving my craft
-- ⚡ Focused on clean architecture, performance, and user experience
-- 🧠 Interested in backend systems, cloud infrastructure, and modern web development
-- 🤖 Leverage AI-augmented development workflows to optimize delivery speed and maintain high code quality
+ Software Engineer passionate about building scalable applications
+- Always learning new technologies and improving my craft
+- Focused on clean architecture, performance, and user experience
+- Interested in backend systems, cloud infrastructure, and modern web development
+- Leverage AI-augmented development workflows to optimize delivery speed and maintain high code quality
 
 ---
 
