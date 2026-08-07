@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
  Software Engineer passionate about building scalable applications
 - Always learning new technologies and improving my craft
