@@ -51,7 +51,7 @@
 
 ---
 
-## 🏗 Architecture & Integrations
+## Architecture & Integrations
 
 ### Scalable Systems
 - Clean Architecture & Domain-Driven Design (DDD)
